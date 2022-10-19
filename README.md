@@ -3,8 +3,6 @@
 # :book: About 
 These modules of C++ are designed to help me understand the specificities of the language when compared to C. Time to dive into Object-Oriented Programming! This Project contains 9 modules every one of the 9 Modules designed To help me discover new Things in C++ OOP.
 
-<center><p align = "center"> :star::star::star: </p> </center>
-
 ---
 <img src="https://user-images.githubusercontent.com/54292953/142726987-139b4a51-9471-4aa3-9051-1bab383c38c9.png" width=3% height=3%> CPP MODULES
 ---
